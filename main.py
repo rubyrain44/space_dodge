@@ -1,3 +1,6 @@
+# FIRST PYGAME PROJECT
+# Tutorial followed: https://www.youtube.com/watch?v=waY3LfJhQLY
+
 import pygame
 import time
 import random
